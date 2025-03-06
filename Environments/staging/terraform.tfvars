@@ -1,0 +1,1 @@
+# terraform.tfvars - Placeholder content

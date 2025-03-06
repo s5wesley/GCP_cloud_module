@@ -1,0 +1,1 @@
+# main.tf - Placeholder content
